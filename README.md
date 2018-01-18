@@ -6,7 +6,10 @@ The app is a simple drawing game .It requires 3 players. The 1st player chooses 
 
 •	How to launch and run it?
 
-Open A2 folder and run app.js
+Open  folder and run app.js by:
+
+typing npm install //to install the modules needed 
+then 
 node app.js
 
 open chrome 
